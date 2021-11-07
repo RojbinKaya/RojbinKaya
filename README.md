@@ -6,6 +6,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Flutter 
 - 💬 Ask me about Flutter
+- 🤣 Pronouns: She/Her
 - ⚡ Fun fact: Reading book
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
